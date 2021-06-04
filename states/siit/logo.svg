@@ -1,7 +1,7 @@
-<svg width="120" height="120" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<svg width="120" height="120" viewBox="120 120 800 800" xmlns="http://www.w3.org/2000/svg">
   <title>SIIT</title>
   <g id="group-back">
-    <rect id="back-global" x="0" y="0" width="100%" height="100%" fill="#3f3f3f" stroke="none"/>
+    <rect id="back-global" x="0" y="0" width="200%" height="200%" fill="#3f3f3f" stroke="none"/>
   </g>
   <g id="group-file">
     <path
@@ -9,7 +9,7 @@
       fill="#222222"/>
   </g>
   <g id="group-title">
-    <text id="title-siit" x="54%" y="70%" text-anchor="middle"
+    <text id="title-siit" x="68%" y="90%" text-anchor="middle"
           font-family="Inter,Arial,sans-serif" font-size="250" font-style="italic"
           fill="#fefefe"
     >

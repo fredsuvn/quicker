@@ -10,3 +10,7 @@ image:states/ufotv/logo.svg[]
 == Special Incident Investigation Team
 
 image:states/siit/logo.svg[]
+
+== Euphoria
+
+image:states/efotv/logo.svg[]

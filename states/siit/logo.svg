@@ -1,0 +1,20 @@
+<svg width="120" height="60" xmlns="http://www.w3.org/2000/svg">
+  <title>SIIT</title>
+  <g id="group-back">
+    <rect id="back-global" x="0" y="0" width="120" height="60" fill="#3f3f3f" stroke="none"/>
+    <rect id="back-line-1" x="0" y="5" width="120" height="5" fill="#333333" stroke="none"/>
+    <rect id="back-line-2" x="0" y="15" width="120" height="5" fill="#333333" stroke="none"/>
+    <rect id="back-line-3" x="0" y="25" width="120" height="5" fill="#333333" stroke="none"/>
+    <rect id="back-line-4" x="0" y="35" width="120" height="5" fill="#333333" stroke="none"/>
+    <rect id="back-line-5" x="0" y="45" width="120" height="5" fill="#333333" stroke="none"/>
+    <rect id="back-line-6" x="0" y="55" width="120" height="5" fill="#333333" stroke="none"/>
+  </g>
+  <g id="group-title">
+    <text id="title-siit" x="60" y="50" text-anchor="middle"
+          font-family="Inter,Arial,sans-serif" font-size="50"
+          fill="#fefefe"
+    >
+      SIIT
+    </text>
+  </g>
+</svg>

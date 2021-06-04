@@ -1,6 +1,6 @@
 = image:logo.svg[Suvn] Hello, Suvn!
 
 image:states/srclab/logo.svg[]
+image:states/sonluo/logo.svg[]
+image:states/tousie/logo.svg[]
 image:states/ufotv/logo.svg[]
-image:states/efotv/logo.svg[]
-image:states/gosit/logo.svg[]

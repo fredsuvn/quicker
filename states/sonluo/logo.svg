@@ -1,12 +1,15 @@
 <svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
-  <title>SrcLab</title>
+  <title>SonLuo</title>
   <g id="group-back">
     <rect id="back-global" x="0" y="0" width="120" height="120" fill="#3f3f3f" stroke="none"/>
   </g>
   <g id="group-hive"
      stroke-linecap="square" stroke-miterlimit="100"
-     stroke="#5C009D" stroke-width="2" fill="#fefefe" filter="url(#filter-light)"
+     stroke="#3f3f3f" stroke-width="2" fill="#fefefe"
   >
+    <path id="hive-middle"
+          d="M60,60 m-10,-17 l20,0 l10,17 l-10,17 l-20,0 l-10,-17 l10,-17"
+    />
     <path id="hive-t"
           d="M60,26 m-10,-17 l20,0 l10,17 l-10,17 l-20,0 l-10,-17 l10,-17"
     />
@@ -28,22 +31,10 @@
   </g>
   <g id="group-title">
     <text id="title-srclab" x="60" y="63" text-anchor="middle"
-          font-family="Inter,Arial,sans-serif" font-size="10"
-          fill="#fefefe"
+          font-family="Inter,Arial,sans-serif" font-size="7"
+          fill="#3f3f3f"
     >
-      SrcLab
+      SonLuo
     </text>
   </g>
-  <defs>
-    <filter id="filter-light">
-      <feColorMatrix result="colorOut" in="SourceGraphic"
-                     values="0.36078 0 0 0 0
-                             0 0.00001 0 0 0
-                             0 0 0.61569 0 0
-                             0 0 0 1 0"
-      />
-      <feGaussianBlur result="blurOut" in="colorOut" stdDeviation="5"/>
-      <feBlend in="SourceGraphic" in2="blurOut" mode="normal"/>
-    </filter>
-  </defs>
 </svg>

@@ -5,7 +5,7 @@
   </g>
   <g id="group-hive"
      stroke-linecap="square" stroke-miterlimit="100"
-     stroke="OrangeRed" stroke-width="1" fill="#fefefe" filter="url(#filter-light)"
+     stroke="OrangeRed" stroke-width="2" fill="#fefefe" filter="url(#filter-light)"
   >
     <path id="hive-t"
           d="M60,26 m-10,-17 l20,0 l10,17 l-10,17 l-20,0 l-10,-17 l10,-17"

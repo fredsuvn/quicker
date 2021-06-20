@@ -2,15 +2,15 @@
 
 == Magic, Science, Finance and Public
 
-image:states/srclab/srclab.svg[]
-image:states/sonluo/sonluo.svg[]
-image:states/tousie/tousie.svg[]
-image:states/ufotv/ufotv.svg[]
+image:states/srclab/srclab.svg[,120]
+image:states/sonluo/sonluo.svg[,120]
+image:states/tousie/tousie.svg[,120]
+image:states/ufotv/ufotv.svg[,120]
 
 == Special Incident Investigation Team
 
-image:states/siit/siit.svg[]
+image:states/siit/siit.svg[,120]
 
 == Euphoria
 
-image:states/efotv/efotv.svg[]
+image:states/efotv/efotv.svg[,120]

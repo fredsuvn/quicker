@@ -1,16 +1,16 @@
-= image:logo.svg[Suvn] Hello, Suvn!
+= image:logo.svg[Suvn] We Are Suvn!
 
 == Magic, Science, Finance and Public
 
-image:states/srclab/logo.svg[]
-image:states/sonluo/logo.svg[]
-image:states/tousie/logo.svg[]
-image:states/ufotv/logo.svg[]
+image:states/srclab/srclab.svg[]
+image:states/sonluo/sonluo.svg[]
+image:states/tousie/tousie.svg[]
+image:states/ufotv/ufotv.svg[]
 
 == Special Incident Investigation Team
 
-image:states/siit/logo.svg[]
+image:states/siit/siit.svg[]
 
 == Euphoria
 
-image:states/efotv/logo.svg[]
+image:states/efotv/efotv.svg[]

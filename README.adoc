@@ -1,16 +1,13 @@
-= image:logo.svg[Suvn] We Are Suvn!
+= image:logo.svg[] Welcome to _Suvn Family_!
 
-== Magic, Science, Finance and Public
+== Core Abilities:
 
-image:states/srclab/srclab.svg[,120]
-image:states/sonluo/sonluo.svg[,120]
-image:states/tousie/tousie.svg[,120]
-image:states/ufotv/ufotv.svg[,120]
+* image:states/srclab/srclab.svg[,64] _Magic_
+* image:states/sonluo/sonluo.svg[,64] _Science-Tech_
+* image:states/tousie/tousie.svg[,64] _Finance_
+* image:states/ufotv/ufotv.svg[,64] _Public_
 
-== Special Incident Investigation Team
+== Special Organization:
 
-image:states/siit/siit.svg[,120]
-
-== Euphoria
-
-image:states/efotv/efotv.svg[,120]
+* image:states/siit/siit.svg[,64] _SIIT (Special Incident Investigation Team)_
+* image:states/efo/efo.svg[,64] _Efo, Euphoria Fans_

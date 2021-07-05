@@ -36,17 +36,17 @@
      stroke-linecap="square" stroke-miterlimit="100"
      stroke="none" stroke-width="0" fill="OrangeRed" filter="url(#filter-light)"
   >
-    <path id="butterfly-wing-rb"
-          d="M60,60 l32,0 l-15,20 l-17,-17 z"
+    <path id="wing-rb"
+          d="M60,60 l10,0 l22,5 l-15,17 l-17,-19 z"
     />
-    <path id="butterfly-wing-lb"
-          d="M60,60 l-32,0 l15,20 l17,-17 z"
+    <path id="wing-lb"
+          d="M60,60 l-10,0 l-22,5 l15,17 l17,-19 z"
     />
-    <path id="butterfly-wing-rt"
-          d="M60,60 m0,-3 l40,-20 l-15,30 l-30,-7 z"
+    <path id="wing-rt"
+          d="M60,60 m0,-3 l10,-10 l30,-10 l-15,30 l-30,-7 z"
     />
-    <path id="butterfly-wing-lt"
-          d="M60,60 m0,-3 l-40,-20 l15,30 l30,-7 z"
+    <path id="wing-lt"
+          d="M60,60 m0,-3 l-10,-10 l-30,-10 l15,30 l30,-7 z"
     />
   </g>
   <defs>
